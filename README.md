@@ -2,7 +2,7 @@
 
 Versão: 1.0.1
 
-Uma calculadora simples para calcular a média de avaliações com base na quantidade de estrelas.
+Uma calculadora em Python simples para calcular a média de avaliações com base na quantidade de estrelas.
 
 ## Descrição
 
@@ -27,9 +27,9 @@ Este programa permite que você insira a quantidade de avaliações para cada qu
 2. Instale as bibliotecas necessárias executando o seguinte comando:
 pip install tkinter pyperclip
 3. Faça o download ou clone este repositório.
-4. Navegue até o diretório onde o arquivo `main.py` está localizado.
+4. Navegue até o diretório onde o arquivo `calculadora.py` está localizado.
 5. Execute o seguinte comando para iniciar o programa:
-python main.py
+python calculadora.py
 6. Insira a quantidade de avaliações para cada quantidade de estrelas.
 7. Clique no botão "Calcular Média" para calcular a média das avaliações.
 8. O resultado da média e a fórmula de cálculo serão exibidos.
